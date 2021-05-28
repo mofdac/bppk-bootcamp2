@@ -33,7 +33,6 @@
        - PCA
        
 ***3. Low-Code EDA: 1 JP***
-
  	- Pandas-Proffiler
  	- Pandas-GUI 	
  	- SweetViz 	
