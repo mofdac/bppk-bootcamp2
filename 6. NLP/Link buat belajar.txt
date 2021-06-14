@@ -1,0 +1,5 @@
+https://cs.nyu.edu/~grishman/jet/guide/PennPOS.html
+
+https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+
+https://www.youtube.com/watch?v=D2V1okCEsiE

@@ -1,0 +1,3 @@
+https://github.com/mofdac/bppk-bootcamp2/tree/master/pandas-eda
+
+https://www.statsmodels.org/stable/generated/statsmodels.multivariate.manova.MANOVA.html

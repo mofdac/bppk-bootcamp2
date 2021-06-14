@@ -1,0 +1,3 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier
+
+Materi E-Learning Bootcamp Data Analytics I: https://drive.google.com/drive/u/1/folders/1r0wQvBZ7elQZCTQxKFtGZWnJb_7fb5nz
